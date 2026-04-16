@@ -23,18 +23,13 @@ The project is designed as a clean SaaS-style dashboard prototype for logistics 
 ## Screenshots
 
 ### Dashboard
-![Dashboard](<img width="1920" height="2610" alt="screencapture-localhost-5173-2026-04-16-23_12_36" src="https://github.com/user-attachments/assets/1670b02e-73a4-4865-b1ad-cbf198ddf3ed" />)
+<img width="1920" height="2610" alt="screencapture-localhost-5173-2026-04-16-23_12_36" src="https://github.com/user-attachments/assets/1670b02e-73a4-4865-b1ad-cbf198ddf3ed" />
 
 ### Trips Page
-![Trips Page](<img width="1920" height="2610" alt="screencapture-localhost-5173-2026-04-16-23_12_36" src="https://github.com/user-attachments/assets/57a6bb39-b8e3-477f-8572-89a73173a06f" />)
+<img width="1920" height="2610" alt="screencapture-localhost-5173-2026-04-16-23_12_36" src="https://github.com/user-attachments/assets/57a6bb39-b8e3-477f-8572-89a73173a06f" />
 
 ### Analytics Page
-![Analytics Page](<img width="1920" height="2003" alt="screencapture-localhost-5173-analytics-2026-04-16-23_16_30" src="https://github.com/user-attachments/assets/adc9354d-edc6-49ad-ad57-7a978334313e" />)
+<img width="1920" height="2003" alt="screencapture-localhost-5173-analytics-2026-04-16-23_16_30" src="https://github.com/user-attachments/assets/adc9354d-edc6-49ad-ad57-7a978334313e" />
 
-## Getting Started
 
-Clone the repository:
 
-```bash
-git clone https://github.com/TO_USERNAME_SOU/TO_REPO_SOU.git
-cd TO_REPO_SOU
